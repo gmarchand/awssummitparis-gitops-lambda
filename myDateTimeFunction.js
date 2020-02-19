@@ -26,7 +26,7 @@
               break;
             default:
               result = {
-                "error": "Must specify 'yesterday', 'today', or 'tomorrow'."
+                "error": "Please, Must specify 'yesterday', 'today', or 'tomorrow'."
               };
               sc = 400;
               break;
