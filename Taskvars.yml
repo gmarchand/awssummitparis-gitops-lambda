@@ -1,0 +1,3 @@
+STACK_NAME: awssummitparis2020-gitops-lambda
+TEMPLATE: template.yml
+S3_BUCKET: gma-test
